@@ -36,6 +36,5 @@ switch(true){
 
     default:
         console.log("A heroína " + nomeHeroi + " ainda não iniciou sua jornada!")
-        break
-    
+        break      
 }
